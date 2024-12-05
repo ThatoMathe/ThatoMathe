@@ -40,15 +40,23 @@ Dementia Awareness App <a href="https://snazzy-klepon-e2a416.netlify.app/">Demen
 A responsive website to spread awareness about dementia and support communities in South Africa.
 Technologies: HTML, CSS, JavaScript | Hosted on: Netlify
 
+
 ### NETWORK
-Home Lab
+
+
 
 ### CLOUD
+
+
 
 ### SIEM
 
 
+
+
 ### ENDPOINT 
+
+
 
 
 
