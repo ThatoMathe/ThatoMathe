@@ -1,14 +1,17 @@
 ### 👩‍💻 Thato Mathe
-Aspiring Cybersecurity Professional | Final-Year BSc IT Student | Lifelong Learner
+Oh, hey there! I'm Thato 👩🏽‍💻
+
+Bachelor of Science in IT final year student and web developer.
+Cloud and cybersecurity enthusiast by night.
+If you see me staring at the screen, I’m either coding… or questioning all my life choices while debugging.
+Welcome to my portfolio!
 
 
 ### 🚀 About Me
-Hi there! I'm Thato Mathe, a South African tech enthusiast currently in my final year of a Bachelor of Science in Information Technology at Richfield Graduate Institute of Technology. I’m pivoting from a rich background in hospitality into the exciting world of technology, with a specific passion for cybersecurity.
+I’m a dedicated, self-driven Bachelor of Science in Information Technology student with a passion for continuous learning and a strong focus on web development, cloud computing, and cybersecurity. While I’m finishing my final year, I’ve honed my skills through hands-on projects, certifications, and coding workshops with SheCodes. 
+These experiences have allowed me to build meaningful web applications and explore technologies that are reshaping the future. As a web developer, I’m excited to expand into cloud and cybersecurity, where I can apply my problem-solving abilities to secure systems and optimize cloud infrastructure. 
 
-Although I’m new to IT and cybersecurity, I bring a strong foundation of technical skills and an unyielding determination to grow, learn, and make a difference. With a Google Cybersecurity Certificate under my belt, I'm building my skillset to help organizations stay secure in an ever-changing digital landscape.
-
-I believe in using technology as a tool to solve real-world problems, a philosophy that reflects in my personal projects like the Dementia Awareness Website
-When I’m not immersed in learning or coding, you can find me exploring markets, painting (still learning!), or cultivating my small garden. 🌱
+I’m constantly learning—because tech evolves, and so do I. My journey has taught me that being a good developer is about more than just writing code; it’s about leadership, collaboration, and maintaining focus on delivering quality work. Whether I’m debugging code or building a new feature, I approach every challenge with determination and a bit of humour. I’m excited to grow, contribute, and lead in the world of technology. 🌱
 
 
 ### 💡 What I’m Working On
