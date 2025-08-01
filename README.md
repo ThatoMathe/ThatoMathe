@@ -1,79 +1,88 @@
-### 👩‍💻 Thato Mathe
-Oh, hey there! I'm Thato 👩🏽‍💻
+# 🌍 Thato Mathe - Cybersecurity Enthusiast | Aspiring GRC Analyst
 
-Bachelor of Science in IT final year student and web developer.
-Cloud and cybersecurity enthusiast by night.
-If you see me staring at the screen, I’m either coding… or questioning all my life choices while debugging.
-Welcome to my portfolio!
+Hi there 👋, I’m **Thato Mathe**, a recent **BSc Information Technology graduate** with a strong interest in **Governance, Risk & Compliance (GRC)**, **Cybersecurity**, and **Technology in Healthcare & Banking**.
 
+I’m building my career at the intersection of **cybersecurity**, **policy compliance**, and **regulatory frameworks**, with a focus on **global best practices** and **data protection laws** like **POPIA, GDPR, HIPAA, and PCI DSS**.
 
-### 🚀 About Me
-I’m a dedicated, self-driven Bachelor of Science in Information Technology student with a passion for continuous learning and a strong focus on web development, cloud computing, and cybersecurity. While I’m finishing my final year, I’ve honed my skills through hands-on projects, certifications, and coding workshops with SheCodes. 
-These experiences have allowed me to build meaningful web applications and explore technologies that are reshaping the future. As a web developer, I’m excited to expand into cloud and cybersecurity, where I can apply my problem-solving abilities to secure systems and optimize cloud infrastructure. 
+💻 **Portfolio Website**: [View Here](https://thatomathe.github.io/Thato_Cyber/)  
+📧 **Email**: [thatomathe@outlook.com](mailto:thatomathe@outlook.com)  
+🌐 **LinkedIn**: [linkedin.com/in/thato-mathe](https://www.linkedin.com/in/thato-mathe/)
 
-I’m constantly learning—because tech evolves, and so do I. My journey has taught me that being a good developer is about more than just writing code; it’s about leadership, collaboration, and maintaining focus on delivering quality work. Whether I’m debugging code or building a new feature, I approach every challenge with determination and a bit of humour. I’m excited to grow, contribute, and lead in the world of technology. 🌱
+---
 
+## 📌 **About Me**
+- 🎓 **BSc Information Technology** graduate
+- 📜 **Google Cybersecurity Professional Certificate**
+- 🔐 Passionate about **cybersecurity governance, compliance, and risk assessment**
+- 💡 Interested in **banking & healthcare** compliance frameworks
+- 🌍 Looking for **international opportunities** (remote or relocation)
 
-### 💡 What I’m Working On
-Portfolio Website: Showcasing my skills, projects, and certifications (Link coming soon!)
-Home Lab
-Skill Development: Continuously sharpening my skills in Linux, Python, SQL, and network security.
+---
 
+## 🎯 **Career Goals**
+- Become a **GRC Analyst** or **Cybersecurity Compliance Officer**
+- Contribute to **risk management strategies** in **healthcare** and **banking**
+- Assist organizations in aligning with **international compliance standards**
+- Build **cybersecurity awareness** programs that make compliance practical and effective
 
-### 🎯 Goals
-Transition into a cybersecurity career after graduation in 2025.
-Build a portfolio of meaningful projects that showcase my technical abilities.
-Contribute to open-source projects, particularly those focused on cybersecurity and community development.
+---
 
+## 🛠 **Tech & Tools**
+**Cybersecurity & Compliance**  
+- Governance, Risk & Compliance (GRC) Frameworks  
+- NIST Cybersecurity Framework  
+- ISO 27001 Implementation Concepts  
+- POPIA, GDPR, HIPAA, PCI DSS Awareness  
+- Risk & Security Assessment  
+- Incident Response Principles  
 
-### 📚 Skills
-Here are some of the technologies and tools I’ve explored during my journey:
-Programming & Web Development:
-HTML | CSS | JavaScript | React | PHP | MySQL
-Cybersecurity & IT Fundamentals:
-Networking | Risk Management | Linux | Python
-Project Tools & Platforms:
-Netlify | Visual Studio Code | GitHub
-Soft Skills from Hospitality:
-Teamwork | Leadership | Client-focused Problem Solving
+**Technical Skills**  
+- HTML, CSS, JavaScript  
+- MySQL, PHP (basic)  
+- Linux & Command Line  
+- Cloud Fundamentals (AWS, Azure basics)  
+- Network Security Basics  
 
+---
 
-### 📂 Featured Projects
-Dementia Awareness App <a href="https://snazzy-klepon-e2a416.netlify.app/">Dementia Awareness</a>|
-A responsive website to spread awareness about dementia and support communities in South Africa.
-Technologies: HTML, CSS, JavaScript | Hosted on: Netlify
+## 🏆 **Certifications**
+- **Google Cybersecurity Professional Certificate**
+- **IBM Cybersecurity Fundamentals Badge**
+- **CISCO Cybersecurity Badge**
+- **SheCodes Front-End Development Certificates**
+- **Introduction to Software Testing (University of Minnesota)**
 
+---
 
-### NETWORK
+## 📂 **Portfolio Highlights**
+1. **Personal Portfolio Website** - Fully responsive, showcasing my projects and skills.  
+   🔗 [Visit My Portfolio](https://thatomathe.github.io/Thato_Cyber/)
 
+2. **Warehouse Management System (Academic Project)** - Built using PHP, MySQL, and XAMPP.
 
+3. **Cybersecurity Awareness Materials** - Documentation and resources to promote security culture.
 
-### CLOUD
+---
 
+## 📊 **What I’m Learning Now**
+- **GRC Framework Implementation** (NIST, ISO 27001, COBIT)
+- **Healthcare & Banking Compliance** (HIPAA, PCI DSS)
+- **Security Risk Assessment Tools**
+- **Incident Response Documentation**
 
+---
 
-### SIEM
+## 🤝 **Let’s Connect**
+I’m open to:
+- 🌍 Remote international opportunities
+- 🏦 Cybersecurity in Banking & Finance
+- 🏥 Healthcare IT Compliance
+- 📢 Speaking engagements or community contributions
 
+📧 Email: **[thatomathe@outlook.com](mailto:thatomathe@outlook.com)**  
+🌐 LinkedIn: **[linkedin.com/in/thato-mathe](https://www.linkedin.com/in/thato-mathe/)**  
+💻 Portfolio: **[thatomathe.github.io/Thato_Cyber](https://thatomathe.github.io/Thato_Cyber/)**
 
+---
 
-
-### ENDPOINT 
-
-
-
-
-
-### 📜 Certifications
-Google Cybersecurity Certificate (Coursera)
-CISCO Introduction to Cybersecurity
-SheCodes React Development Bootcamp
-View All Certifications Here <a href="https://www.linkedin.com/in/thato-mathe">Certificates</a>|
-
-
-### 🌐 Let’s Connect
-📧 Email: thatomathe@outlook.com
-🔗 [LinkedIn Profile](https://www.linkedin.com/in/thato-mathe)
-📂 Portfolio & GitHub: github.com/ThatoMathe
-
-
-### Feel free to explore my projects and reach out if you’d like to collaborate or chat about technology, cybersecurity, or coding as a beginner! 😊
+*"The future belongs to those who secure it."*
