@@ -4,7 +4,7 @@ Hi there 👋, I’m **Thato Mathe**, a recent **BSc Information Technology grad
 
 I’m building my career at the intersection of **cybersecurity**, **policy compliance**, and **regulatory frameworks**, with a focus on **global best practices** and **data protection laws** like **POPIA, GDPR, HIPAA, and PCI DSS**.
 
-💻 **Portfolio Website**: [View Here](https://thatomathe.github.io/Thato_Cyber/)  
+💻 **Portfolio Website**: [View Here](https://thatomathe.netlify.app/)  
 📧 **Email**: [thatomathe@outlook.com](mailto:thatomathe@outlook.com)  
 🌐 **LinkedIn**: [linkedin.com/in/thato-mathe](https://www.linkedin.com/in/thato-mathe/)
 
@@ -56,7 +56,7 @@ I’m building my career at the intersection of **cybersecurity**, **policy comp
 
 ## 📂 **Portfolio Highlights**
 1. **Personal Portfolio Website** - Fully responsive, showcasing my projects and skills.  
-   🔗 [Visit My Portfolio](https://thatomathe.github.io/Thato_Cyber/)
+   🔗 [Visit My Portfolio](https://thatomathe.netlify.app/)
 
 2. **Warehouse Management System (Academic Project)** - Built using PHP, MySQL, and XAMPP.
 
@@ -81,7 +81,7 @@ I’m open to:
 
 📧 Email: **[thatomathe@outlook.com](mailto:thatomathe@outlook.com)**  
 🌐 LinkedIn: **[linkedin.com/in/thato-mathe](https://www.linkedin.com/in/thato-mathe/)**  
-💻 Portfolio: **[thatomathe.github.io/Thato_Cyber](https://thatomathe.github.io/Thato_Cyber/)**
+💻 Portfolio: **[thatomathe.github.io/Thato_Cyber](https://thatomathe.netlify.app/)**
 
 ---
 
